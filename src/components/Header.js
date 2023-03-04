@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { ShoppingBasket, SearchOutlined } from "@mui/icons-material";
+import { ShoppingBasket, SearchOutlined } from "@material-ui/icons";
 import "../styles/Header.scss";
 
 const Header = () => {
